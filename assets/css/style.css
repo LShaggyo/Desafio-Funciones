@@ -1,0 +1,92 @@
+/* Seccion pintar */
+
+* {
+    margin: 0;
+    width: 100vw;
+    height: 100vh;
+}
+
+.green {
+    background-color: green;
+}
+
+.yellow {
+    background-color: yellow;
+}
+
+#ele1 h1{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    
+}
+
+/* Seccion Colores */
+
+.container-div {
+    background-color:rgb(255, 255, 255);
+    display: flex;
+    flex-wrap: wrap;
+    padding: 1rem;
+    gap: 1rem;
+    justify-content: center;
+    align-items: center;
+}
+
+.container-div div {
+    width: 200px;
+    height: 200px;
+    cursor: pointer;
+    box-shadow: 0.2rem 0.2rem 1rem grey;
+}
+
+.blue {
+    background-color: blue;
+}
+
+.red {
+    background-color: red;
+}
+
+.green-div {
+    background-color: green;
+}
+
+.yellow-div {
+    background-color: yellow;
+}
+
+.black {
+    background-color: black;
+}
+
+.multicolor{
+    background-color: white;
+    border: solid 3px black;
+}
+
+.pink {
+    background-color: pink;
+}
+
+.orange {
+    background-color: orange;
+}
+
+.cyan {
+    background-color: cyan;
+}
+
+.purple {
+    background-color: purple;
+}
+
+.gray {
+    background-color: gray;
+}
+
+.brown {
+    background-color: brown;
+}
+
